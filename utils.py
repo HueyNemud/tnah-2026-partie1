@@ -163,7 +163,7 @@ def your_team(subgraph: Graph, team: TEAMS) -> Markdown:
     content = f"""
 {separator}
 ### **🐾 BIENVENUE DANS L'ÉQUIPE {team.name} {team.value} 🐾**
-💎 Vous avez reçu un fragment du graphe original nommé `g`.
+💎 Vous avez reçu un fragment du graphe original.
 📦 **Volume assigné** : **{nb_triplets}** triplets de photographies.
 🚀 Bonne chance  !
 {separator}
